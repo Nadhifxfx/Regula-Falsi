@@ -1,4 +1,5 @@
 # Regula-Falsi
+# Berikut adalah code yang berhubungan dengan Regula Falsi dengan Python
 ```python
 def f(x):
     return x**2 - 6*x + 5
