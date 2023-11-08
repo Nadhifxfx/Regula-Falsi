@@ -1,4 +1,4 @@
-# Regula-falsi 
+# Regula-Falsi
 ```python
 def f(x):
     return x**2 - 6*x + 5
