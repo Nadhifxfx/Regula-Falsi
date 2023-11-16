@@ -1,4 +1,4 @@
-# SPNL-Regula-Falsi
+# SPNL Regula Falsi Method
 Berikut adalah code yang berhubungan dengan Regula Falsi dengan Python
 ```python
 def f(x):
