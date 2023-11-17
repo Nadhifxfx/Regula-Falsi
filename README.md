@@ -34,7 +34,7 @@ for iterasi in range(7):
 # Hasil akar pada iterasi ke-5
 print("\nAkar yang ditemukan pada iterasi ke-5: {:.3f}".format(x))
 ```
-
+Output:
 ```
 Iterasi    a          b          f(a)       f(b)       x          f(x)       Lebar     
 1          4.333      6.000      -2.222     5.000      4.333      -2.222     1.667     
