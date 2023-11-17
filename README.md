@@ -1,5 +1,5 @@
 # SPNL Regula Falsi Method
-Berikut adalah code yang berhubungan dengan Regula Falsi dengan Python
+Berikut adalah code yang berhubungan dengan Metode Regula Falsi menggunakan Python
 ```python
 def f(x):
     return x**2 - 6*x + 5
